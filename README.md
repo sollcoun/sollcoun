@@ -24,7 +24,6 @@ Here you can explore my approach to problem-solving and code structure:
 ![C#](https://img.shields.io/badge/c%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Common Lisp](https://img.shields.io/badge/Common_Lisp-333333?style=flat&logo=common-lisp&logoColor=white)
-![LISP](https://img.shields.io/badge/lisp-000000?style=flat&logo=lisp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)
 
 **Web & Frameworks**
