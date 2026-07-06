@@ -5,7 +5,7 @@ My expertise lies at the intersection of IT and Geodesy. I create tools that tra
 ### What I Do
 In my work, I bridge the gap between traditional surveying and modern IT solutions:
 * **CAD Automation:** Developing AutoLISP scripts for AutoCAD to automate drawing preparation and complex calculations.
-* **Engineering-focused IT:** Building tools, from Python scripts to RAG systems, designed to streamline technical documentation and geodetic equipment data management.
+* **Engineering-focused IT:** Building tools, from Python scripts to RAG systems, designed to streamline technical documentation and  data management.
 * **System Integration:** Implementing robust automation processes where precision and systematic efficiency are paramount.
 
 ### Selected Repositories
