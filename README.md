@@ -29,6 +29,7 @@ My expertise lies at the intersection of **IT and Geodesy** — I build tools th
 | [**Scripting_Languages**](https://github.com/sollcoun/Scripting_Languages) | A collection of scripts and automation tasks |
 | [**collection-of-problems**](https://github.com/sollcoun/collection-of-problems) | An archive of solved challenges and development methodologies |
 | [**PSS**](https://github.com/sollcoun/PSS) | Implementation of specific tools and technical solutions |
+| [**LISP**](https://github.com/sollcoun/LISP) | A collection of AutoLISP scripts and automation tools for AutoCAD |
 
 ---
 
